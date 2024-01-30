@@ -10,7 +10,7 @@ ops/
 **/target
 storage/
 keystore/
-tmp/
+tmp/test
 sandbox/
 
 # Ignore Vim swapfiles
